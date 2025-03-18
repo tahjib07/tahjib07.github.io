@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, Power Bi, Tableau
 
 ## Education	 			        		
-- B.S., CCE | IIUC | CGPA:3.75 (_May 2017_)
+- BSc. CCE | IIUC | CGPA:3.75 (_May 2017_)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
