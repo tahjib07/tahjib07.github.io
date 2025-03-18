@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, Power Bi, Tableau
 
 ## Education	 			        		
-- B.S., Computer & Communication Engineering | International Islamic University Chittagong (_Cgpa: 3.75, May 2017_)
+- B.S., CCE | International Islamic University Chittagong (_Cgpa: 3.75, May 2017_)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
