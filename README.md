@@ -1,6 +1,8 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Excel, Power Bi, Tableau
+#### Technical Skills: Python, SQL, Excel, Power Bi, Tableau, Jupyter Notebook, Linux
+
+#### Soft Skills: Communication,  storytelling, presentation,  teaching.
 
 ## Education	 			        		
 - BSc. CCE | IIUC (_May 2020_) | CGPA:3.75
