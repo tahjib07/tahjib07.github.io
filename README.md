@@ -1,4 +1,5 @@
 # Data Analyst
+I can solve your business problems using your data or find insights from your data using any required tool.
 
 #### Technical Skills: Python, SQL, Excel, Power Bi, Tableau, Jupyter Notebook, Linux
 
