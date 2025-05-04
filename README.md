@@ -9,12 +9,15 @@ I can solve your business problems using your data or find insights from your da
 - BSc. CCE | IIUC (_May 2020_) | CGPA:3.75
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
+####  [**NeuroBehavioral Insights: Analysis of Neurobehavioral Data.**](https://github.com/tahjib07/NeuroBehavioral-Insights)
+Developed a data analysis framework for understanding neurobehavioral patterns using various behavioral tests like the **Hole Board Test**, **Forced Swim Test**, and **Elevated Plus Maze**. This project used **Python** for statistical analysis and **matplotlib** for visualizing data, including error bars (SEM). The visualizations provide insights into exploratory behavior, anxiety-like traits, and depressive-like behavior in experimental subjects. The results can contribute to future research in neuropsychology and behavioral neuroscience, helping identify underlying patterns in test data. The project included a GitHub repository with all scripts, data, and visualizations shared for public use.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- **Key Contributions**:
+  - Created visualizations to assess behavioral data from experiments, focusing on open-arm exploration, immobility time, and exploratory behavior.
+  - Applied statistical methods to compute SEM and visualize error bars for precise data interpretation.
+  - The full project is available on the [GitHub Repository](https://github.com/tahjib07/NeuroBehavioral-Insights).
+
 
 ## Work Experience
 **Teaching Assistant @ International Islamic University Chittagong (_January 2024 - January 2025_)**
