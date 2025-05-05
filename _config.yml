@@ -1,4 +1,25 @@
-title: Tahjib Ahmed S.
-description: Freelance Data Analyst . BI Analyst . Power BI specialist
-show_downloads: true
-theme: jekyll-theme-cayman
+title: "Tahjib Ahmed S."
+description: "Freelance Data Analyst · BI Analyst · Power BI Specialist"
+baseurl: "" # leave blank for user.github.io
+url: "https://tahjib07.github.io" # your GitHub Pages URL
+
+# Theme configuration
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+# Optional: social links and logo
+author:
+  name   : "Tahjib Ahmed Siddique"
+  avatar : "/assets/img/tahjib.jpg" # circular profile photo
+  bio    : "Turning data into insights. Power BI | Python | SQL"
+
+# Optional: social links
+social:
+  links:
+    - https://linkedin.com/in/tahjib07
+    - https://github.com/tahjib07
+
+# Disable default downloads
+show_downloads: false
