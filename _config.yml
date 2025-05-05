@@ -2,7 +2,7 @@ title: Tahjib Ahmed S.
 logo: /assets/img/tahjib.jpg
 description: Entry-level Data Analyst . BI Analyst . Power BI specialist
 show_downloads: true
-theme: remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-cayman
 
 social:
   linkedin: www.linkedin.com/in/tahjib07
