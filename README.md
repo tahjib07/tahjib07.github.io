@@ -1,4 +1,15 @@
-# Portfolio - Tahjib Ahmed S.
+<p align="center">
+  <img src="/assets/img/tahjib.jpg" alt="Tahjib Ahmed S." width="160" height="160" style="border-radius: 50%;">
+</p>
+
+<h1 align="center">Tahjib Ahmed Siddique</h1>
+
+<p align="center">
+  <strong>Freelance Data Analyst · BI Analyst · Power BI Specialist</strong><br>
+  Passionate about solving real-world problems using data.
+</p>
+
+---
 
 Welcome to my portfolio website! I am a passionate **Data Analyst**, **BI Analyst**, and **Power BI Specialist** with a focus on turning data into actionable insights to solve business problems.
 
