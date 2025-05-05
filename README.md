@@ -57,7 +57,7 @@ I specialize in **data analysis**, **data visualization**, and **business intell
 
 You can reach me at:
 
-- **Email**: [your-email@example.com](mailto:tahjibahmedsiddique@gmail.com)
+- **Email**: [tahjibahmedsiddique@gmail.com](mailto:tahjibahmedsiddique@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tahjib07)
 - **GitHub**: [GitHub Profile](https://github.com/tahjib07)
 
