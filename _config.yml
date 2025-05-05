@@ -23,3 +23,17 @@ social:
 
 # Disable default downloads
 show_downloads: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+include:
+  - _pages
+
+collections:
+  pages:
+    output: true
