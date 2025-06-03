@@ -4,8 +4,6 @@ title: "Contact"
 permalink: /contact/
 ---
 
-## Get In Touch
-
 I'm always excited to connect, collaborate, or discuss new opportunities in data analysis, BI, and dashboard design. Feel free to reach out via any of the platforms below:
 
 ### 📧 Email
