@@ -1,15 +1,11 @@
 main:
-  - title: "Home"
+  - title: "<i class='fas fa-home'></i> Home"
     url: /
-
-  - title: "About"
+  - title: "<i class='fas fa-user'></i> About"
     url: /about/
-
-  - title: "Projects"
+  - title: "<i class='fas fa-chart-bar'></i> Projects"
     url: /projects/
-
-  - title: "Experience"
+  - title: "<i class='fas fa-briefcase'></i> Experience"
     url: /experience/
-
-  - title: "Contact"
+  - title: "<i class='fas fa-envelope'></i> Contact"
     url: /contact/
