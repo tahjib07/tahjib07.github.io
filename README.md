@@ -11,7 +11,7 @@
 
 ---
 
-Welcome to my portfolio website! I am a passionate **Data Analyst**, **BI Analyst**, and **Power BI Specialist** with a focus on turning data into actionable insights to solve business problems.
+Welcome to my portfolio website! I solve Business Problems with Data | Data Analyst & UI/UX Dashboard Designer | Turning Raw Data into Business Growth
 
 ## About Me
 
