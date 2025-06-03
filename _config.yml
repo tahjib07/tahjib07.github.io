@@ -1,9 +1,9 @@
 title: "Tahjib Ahmed S."
 description: "Freelance Data Analyst · BI Analyst · Power BI Specialist"
-baseurl: "" # leave empty for GitHub Pages
+baseurl: "" # Do not add trailing slash
 url: "https://tahjib07.github.io"
 
-# IMPORTANT: This disables default theme so remote_theme works
+# Use remote theme
 theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -16,16 +16,19 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+# Author info
 author:
   name   : "Tahjib Ahmed Siddique"
   avatar : "/assets/img/tahjib.jpg"
   bio    : "Turning data into insights using any technology needed."
 
+# Social media links
 social:
   links:
     - https://linkedin.com/in/tahjib07
     - https://github.com/tahjib07
 
+# Default layout for pages
 defaults:
   - scope:
       path: ""
@@ -33,9 +36,13 @@ defaults:
     values:
       layout: single
 
+# Include these folders
 include:
   - _pages
 
 collections:
   pages:
     output: true
+
+# Navigation (optional)
+# Make sure _data/navigation.yml exists and is configured if used
