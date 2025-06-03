@@ -1,21 +1,37 @@
 ---
 layout: splash
 title: "Tahjib Ahmed S."
-subtitle: "Freelance Data Analyst"
-permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/img/cover.jpg
-  cta_label: "View My Projects"
-  cta_url: "/projects/"
-  caption: "Turning data into insights using any technology needed."
+  overlay_image: /assets/img/banner.jpg
+  actions:
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/tahjib07"
+    - label: "GitHub"
+      url: "https://github.com/tahjib07"
+excerpt: "Freelance Data Analyst · BI Analyst · Power BI Specialist"
 ---
 
-<p align="center">
-  <img src="/assets/img/tahjib.jpg" alt="Tahjib Ahmed S." width="140" height="140" style="border-radius: 50%;">
-</p>
+{% include figure image_path="/assets/img/tahjib.jpg" alt="Profile Picture" width="140px" class="align-center" %}
 
-Hi! I’m **Tahjib Ahmed S.**, a Freelance Data Analyst.
+## 👋 Welcome
 
-I help businesses make smarter decisions by transforming raw data into actionable insights using tools like **Python**, **Power BI**, and **SQL**.
+I’m a **Freelance Data Analyst** who helps businesses make smarter decisions by transforming raw data into actionable insights — using tools like **Python**, **Power BI**, and **SQL**.
+
+---
+
+## ⚡ Expertise Summary
+
+- 📊 **Data Analysis** — Python (Pandas, NumPy), SQL  
+- 📈 **Dashboards & BI** — Power BI, Tableau, Matplotlib  
+- 🧰 **Tech Stack** — Jupyter, Git, Excel, Linux  
+- 🎯 **Soft Skills** — Communication, Problem Solving, Teaching
+
+---
+
+## 📌 Explore
+
+- [📂 Projects](projects)
+- [💼 Experience](experience)
+- [📬 Contact](contact)
