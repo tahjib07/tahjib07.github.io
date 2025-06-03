@@ -4,6 +4,7 @@ title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
+  caption: ""
   actions:
     - label: "LinkedIn"
       url: "https://linkedin.com/in/tahjib07"
