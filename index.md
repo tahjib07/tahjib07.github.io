@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: "Tahjib"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
