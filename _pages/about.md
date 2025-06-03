@@ -5,8 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-## About Me
-
 I specialize in **data analysis**, **data visualization**, and **business intelligence** tools like **Power BI**, **Tableau**, and **Python**. With a **BSc in Computer and Communication Engineering** from **IIUC**, I bring technical expertise and a deep understanding of data-driven decision-making.
 
 ## Skills
