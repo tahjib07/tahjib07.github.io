@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
-gem 'jekyll', '~> 4.3.2'
-gem 'jekyll-include-cache'
-gem 'minimal-mistakes-jekyll'
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "jekyll-remote-theme"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-include-cache"  
