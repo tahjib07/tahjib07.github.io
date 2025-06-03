@@ -74,7 +74,7 @@ I specialize in **data analysis**, **data visualization**, and **business intell
 ## Education
 
 - **BSc. in Computer and Communication Engineering (CCE)** | International Islamic University Chittagong (IIUC)  
-  _May 2020_ | CGPA: 3.75
+  _2024_ | CGPA: 3.75
 
 ## Contact Me
 
