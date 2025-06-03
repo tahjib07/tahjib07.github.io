@@ -14,7 +14,7 @@ excerpt: |
   <img src="/assets/img/tahjib.jpg" alt="Tahjib Ahmed Siddique" width="120" height="120" style="border-radius: 50%; margin-bottom: 1rem;"><br>
   <span style="font-size: 1.8rem; font-weight: bold;">Tahjib Ahmed S.</span><br>
   Solving Business Problems with Data | Data Analyst & UI/UX Dashboard Designer | Turning Raw Data into Business Growth
-  tahjibas.connect@gmail.com
+   <a href="mailto:tahjibas.connect@gmail.com" style="color:#00C4B4; font-weight:bold; font-size:1rem; display:inline-block; margin-top:0.5rem;">📩 tahjibas.connect@gmail.com</a>
 ---
 ## 👋 Welcome
 
