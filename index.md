@@ -16,6 +16,6 @@ header:
   <img src="/assets/img/tahjib.jpg" alt="Tahjib Ahmed S." width="140" height="140" style="border-radius: 50%;">
 </p>
 
-Hi! I’m **Tahjib Ahmed S.**, a Freelance Data Analyst, BI Analyst, and Power BI Specialist.
+Hi! I’m **Tahjib Ahmed S.**, a Freelance Data Analyst.
 
 I help businesses make smarter decisions by transforming raw data into actionable insights using tools like **Python**, **Power BI**, and **SQL**.
