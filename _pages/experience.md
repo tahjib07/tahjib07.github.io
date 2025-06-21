@@ -4,7 +4,7 @@ title: "Experience"
 permalink: /experience/
 ---
 
-## UI/UX & Product Analyst (Contract-Based) | DAshortcut  
+## UI/UX & Product Analyst (Contract-Based) | DAshortcut, Mentors Hunt
 **Jan 2023 - Mar 2023, Apr 2025 - Present**  
 - Worked on **data-centric UX** projects, utilizing data insights to inform product design and improve user experience.
 - Collaborated with teams on a project basis to drive business decisions based on **data analysis**, ensuring product enhancements align with user needs and business goals.
